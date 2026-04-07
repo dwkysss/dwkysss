@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Dwiky Sumarlin
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dwikysss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=dwkysss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 An **Informatics graduate** passionate about extracting insights from data and building intelligent systems. Currently focusing on Data Science, Machine Learning, and Software Development.
