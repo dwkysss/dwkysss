@@ -7,7 +7,7 @@ An **Informatics graduate** passionate about extracting insights from data and b
 - 🧠 Actively learning MLOps, SQL, and enhancing my English for professional growth.
 - 💻 Experienced in end-to-end machine learning projects, from data collection to model deployment.
 - 💬 Ask me about **Python, Machine Learning, or Computer Vision**.
-- 📫 How to reach me: [Tautan LinkedIn Kamu] atau [Alamat Email Kamu]
+- 📫 How to reach me: dwikysumarlin01@gmail.com
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
