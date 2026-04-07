@@ -70,15 +70,15 @@ An **Informatics graduate** passionate about extracting insights from data and b
 ### 🏆 GitHub Trophies
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dwikysss&margin-w=15&theme=radical" alt="dwikysss trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dwkysss&margin-w=15&theme=radical" alt="dwkysss trophies" />
   </a> 
 </p>
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwikysss&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwikysss&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dwkysss&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwkysss&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwikysss&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwkysss&theme=radical" alt="GitHub Streak" height="165" />
 </p>
